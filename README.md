@@ -2,13 +2,18 @@
 
 This vim plugin helps running a command in shell, and displays its result.
 
-In default, `Shift` + `R` in visual mode invokes it.
+## How to use
+
+- Enter into visual mode.
+- Select a text which includes a command. (ex. `grep -nr foo .`)
+- Press `Shift` + `R`.
+- You will see a new buffer with the command and its result.
 
 ## Options
 
 ### g:sh_cmd_runner_run_cmd_key
 
-Change a key to run.
+Change a key to run. Default is '<S-r>'.
 
 ### g:sh_cmd_runner_cmd_prefix
 
