@@ -1,6 +1,6 @@
-# sh-cmd-runner
+# sh-cmd-runner - Vim plugin
 
-This plugin helps running a command in shell, and displays its result.
+This vim plugin helps running a command in shell, and displays its result.
 In default, `Shift` + `R` invokes it.
 
 ## Options
