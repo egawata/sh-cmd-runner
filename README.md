@@ -13,7 +13,7 @@ This vim plugin helps running a command in shell, and displays its result.
 
 ### g:sh_cmd_runner_run_cmd_key
 
-Change a key to run. Default is '<S-r>'.
+Change a key to run. Default is `<S-r>`.
 
 ### g:sh_cmd_runner_cmd_prefix
 
